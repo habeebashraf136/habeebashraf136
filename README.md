@@ -1,5 +1,5 @@
 # Mohammed Habeeb Ashraf 👋
-**Backend Developer | MERN Stack | Building AI-Powered Systems**
+**Backend Developer | Node.js · Redis | Building AI-Powered Systems**
 
 ---
 
