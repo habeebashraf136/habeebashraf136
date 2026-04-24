@@ -35,7 +35,7 @@ A complex fintech backend focusing on **transaction integrity** and **wallet ser
 #### 🔍 [Perplexity Clone](https://github.com/habeebashraf136/Perplexity-project)
 AI-powered search engine using **Mistral AI** and **Redis**. It features intelligent query handling, Redis-based rate limiting, and secure JWT authentication.
 
-#### 🎵 [Modify - Music Mood AI](https://github.com/habeebashraf136/modify-music-mood)
+#### 🎵 [Modify - Music Mood AI](https://github.com/habeebashraf136/modify-ai-project)
 Real-time facial expression-based music recommendation engine. Uses **MediaPipe** for emotion detection and a Node.js/MongoDB backend for personalized playlists.
 
 ---
