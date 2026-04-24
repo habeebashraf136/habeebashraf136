@@ -8,7 +8,7 @@
 - 🛠️ **Full-Stack focus**: Architecting scalable systems with Node.js, Express, and MongoDB.
 - 🧠 **AI Integration**: Implementing LLM features (Mistral AI) and intelligent automation.
 - ⚡ **Real-time & Performance**: Utilizing Redis for caching and Socket.io for live updates.
-- ✉️ Open to **Backend Developer Internships** at product-driven startups.
+- ✉️ Open to **Backend Developer Internships**
 
 ---
 
