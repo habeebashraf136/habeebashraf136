@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Sheryians Coding School** (Cohort 2.0) — Specializing in Advanced Backend Engineering.
+- 🎓 **Sheryians Coding School** (Cohort 2.0) — Learning Mern Stack and Genai
 - 🛠️ **Full-Stack focus**: Architecting scalable systems with Node.js, Express, and MongoDB.
 - 🧠 **AI Integration**: Implementing LLM features (Mistral AI) and intelligent automation.
 - ⚡ **Real-time & Performance**: Utilizing Redis for caching and Socket.io for live updates.
