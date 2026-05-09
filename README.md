@@ -4,8 +4,8 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Sheryians Coding School** (Cohort 2.0) — Learning Mern Stack and Genai
-- 🛠️ **Full-Stack focus**: Architecting scalable systems with Node.js, Express, and MongoDB.
+- 🎓 **Sheryians Coding School** (Cohort 2.0) — Learning MERN Stack and GenAI
+- 🛠️ **backend-Stack focus**: Architecting scalable systems with Node.js, Express, and MongoDB.
 - 🧠 **AI Integration**: Implementing LLM features (Mistral AI) and intelligent automation.
 - ⚡ **Real-time & Performance**: Utilizing Redis for caching and Socket.io for live updates.
 - ✉️ Open to **Backend Developer Internships**
@@ -28,6 +28,9 @@
 ---
 
 ### 🌟 Featured Repositories
+
+#### 🚦 [LLM Gateway & AI Router](https://github.com/habeebashraf136/llm-gateway-backend)
+A high-performance middleware orchestrator abstracting multiple AI APIs (Mistral, Groq, OpenRouter, DeepSeek). Features **autonomous fallback logic** for zero downtime, **SSE streaming** for real-time responses, and enterprise-grade rate limiting using **Redis** and **Express-Validator**.
 
 #### 💳 [PhonePe Backend Clone](https://github.com/habeebashraf136/phonepe-backend-project)
 A complex fintech backend focusing on **transaction integrity** and **wallet services**. Features include secure payment processing logic, balance management, and detailed transaction history.
