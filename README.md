@@ -1,44 +1,44 @@
-# Mohammed Habeeb Ashraf 👋
-**Backend Developer | Node.js · Redis | Building AI-Powered Systems**
+# Mohammed Habeeb Ashraf
+
+Backend Developer — Node.js, TypeScript, Redis, AI/LLM Integration
+Open to Backend / AI Engineering Internships (Remote)
 
 ---
 
-### 🚀 About Me
-- 🎓 **Sheryians Coding School** (Cohort 2.0) — Learning MERN Stack and GenAI
-- 🛠️ **backend-Stack focus**: Architecting scalable systems with Node.js, Express, and MongoDB.
-- 🧠 **AI Integration**: Implementing LLM features (Mistral AI) and intelligent automation.
-- ⚡ **Real-time & Performance**: Utilizing Redis for caching and Socket.io for live updates.
-- ✉️ Open to **Backend Developer Internships**
+## About
+
+- Self-taught backend developer, trained through Sheryians Coding School's Full-Stack Cohort 2.0
+- Focus: building backend systems that integrate LLMs — routing, RAG pipelines, real-time infrastructure
+- Based in Raichur, India · Open to remote roles
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 **Backend & Infrastructure**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+`Node.js` `Express` `MongoDB` `Redis` `TypeScript` `Docker` `Socket.io` `JWT / bcrypt`
 
-**Frontend & Design**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**AI / LLM**
+`LangGraph` `LangChain` `Pinecone` `Groq` `OpenAI Embeddings` `Mistral AI`
 
 ---
 
-### 🌟 Featured Repositories
+## Featured Projects
 
-#### 🚦 [LLM Gateway & AI Router](https://github.com/habeebashraf136/llm-gateway-backend)
+### [Resume-Job-Matcher](https://github.com/habeebashraf136/resume-job-matcher-backend)
+A RAG-based job matching pipeline built with LangGraph. Six sequential nodes handle resume parsing, embedding generation, vector search against Pinecone, and match scoring using Groq and OpenAI embeddings. Includes Docker setup and CI/CD via GitHub Actions.
+`TypeScript` `LangGraph` `Pinecone` `Docker`
+
+#### [LLM Gateway & AI Router](https://github.com/habeebashraf136/llm-gateway-backend)
 A high-performance middleware orchestrator abstracting multiple AI APIs (Mistral, Groq, OpenRouter, DeepSeek). Features **autonomous fallback logic** for zero downtime, **SSE streaming** for real-time responses, and enterprise-grade rate limiting using **Redis** and **Express-Validator**.
 
-#### 💳 [PhonePe Backend Clone](https://github.com/habeebashraf136/phonepe-backend-project)
+#### [PhonePe Backend Clone](https://github.com/habeebashraf136/phonepe-backend-project)
 A complex fintech backend focusing on **transaction integrity** and **wallet services**. Features include secure payment processing logic, balance management, and detailed transaction history.
 
-#### 🔍 [Perplexity Clone](https://github.com/habeebashraf136/Perplexity-project)
+#### [Perplexity Clone](https://github.com/habeebashraf136/Perplexity-project)
 AI-powered search engine using **Mistral AI** and **Redis**. It features intelligent query handling, Redis-based rate limiting, and secure JWT authentication.
 
-#### 🎵 [Modify - Music Mood AI](https://github.com/habeebashraf136/modify-ai-project)
+#### [Modify - Music Mood AI](https://github.com/habeebashraf136/modify-ai-project)
 Real-time facial expression-based music recommendation engine. Uses **MediaPipe** for emotion detection and a Node.js/MongoDB backend for personalized playlists.
 
 ---
