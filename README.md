@@ -1,5 +1,4 @@
-1791110889394_image.png
-this is github profile you have to give me updated. <h1 align="center">Mohammed Habeeb Ashraf 👋</h1>
+<h1 align="center">Mohammed Habeeb Ashraf 👋</h1>
 <p align="center"><b>Software Developer (Backend) | Node.js · Redis | Building AI-Integrated Backend Systems</b></p>
 
 ---
