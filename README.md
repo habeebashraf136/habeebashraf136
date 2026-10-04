@@ -1,14 +1,8 @@
-<h1 align="center">Mohammed Habeeb Ashraf</h1>
-<p align="center"><b>Software Developer (Backend)</b></p>
-<p align="center">Node.js · TypeScript · PostgreSQL · Redis</p>
-<p align="center">I build REST APIs, authentication systems and AI-powered backend services.</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mohammedhabeebashraf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+<h1 align="center">Mohammed Habeeb Ashraf 👋</h1>
+<p align="center"><b>Software Developer (Backend) | Node.js · TypeScript · PostgreSQL · Redis</b></p>
+<p align="center">Building APIs and AI-Powered Backend Services</p>
 
 ---
-
 ### 👨‍💻 About Me
 
 - 🔧 Backend developer focused on REST APIs, authentication, databases and caching
