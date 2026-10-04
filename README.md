@@ -10,7 +10,6 @@
 - 🔧 Backend focus: REST APIs, authentication, databases and caching with Node.js, Express, PostgreSQL, MongoDB, Redis
 - 🤖 AI integration: LLM routing, RAG pipelines, multi-provider orchestration
 - 🏫 Studying BCA at Chandigarh University (Online)
-- 🖥️ I focus on the backend. Frontends in my projects are built with AI tools.
 - 📍 Based in Raichur, India · Open to **remote Backend internships**
 
 ---
