@@ -1,20 +1,25 @@
-<h1 align="center">Mohammed Habeeb Ashraf 👋</h1>
-<p align="center"><b>Software Developer (Backend) | Node.js · TypeScript · PostgreSQL · Redis</b></p>
-<p align="center">Building APIs and AI-Powered Backend Services</p>
+<h1 align="center">Mohammed Habeeb Ashraf</h1>
+<p align="center"><b>Software Developer (Backend)</b></p>
+<p align="center">Node.js · TypeScript · PostgreSQL · Redis</p>
+<p align="center">I build REST APIs, authentication systems and AI-powered backend services.</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohammedhabeebashraf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-- 🎓 Sheryians Coding School: 2.0 Job Ready AI Powered Cohort
-- 🔧 Backend focus: REST APIs, authentication, databases and caching with Node.js, Express, PostgreSQL, MongoDB, Redis
-- 🤖 AI integration: LLM routing, RAG pipelines, multi-provider orchestration
-- 🏫 Studying BCA at Chandigarh University (Online)
-- 📍 Based in Raichur, India · Open to **remote Backend internships**
+- 🔧 Backend developer focused on REST APIs, authentication, databases and caching
+- 🤖 Experience integrating LLMs: RAG pipelines, multi-provider routing and streaming responses
+- 🎓 Trained at Sheryians Coding School (2.0 Job Ready AI Powered Cohort)
+- 📚 Pursuing BCA at Chandigarh University (Online)
+- 📍 Raichur, India · Open to **remote backend internships**
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
 **Backend & Databases**
 
@@ -38,20 +43,38 @@
 
 ---
 
-### 🌟 Featured Repositories
+### 🌟 Featured Projects
 
-#### 🧠 [Resume-Job-Matcher](https://github.com/habeebashraf136/resume-job-matcher-backend)
-Backend that reads a PDF resume and returns ranked job matches. A 6-step LangGraph.js pipeline handles resume parsing, profile extraction, job search, embedding similarity and LLM re-ranking, with results saved in PostgreSQL and JWT authentication.
-
-#### 🔀 [LLM Gateway & AI Router](https://github.com/habeebashraf136/llm-gateway-backend)
-One API for multiple AI providers (Mistral, Qwen, DeepSeek, Groq). It routes each request by task type, falls back to a backup provider on failure, streams responses with SSE, and uses JWT and API-key authentication with rate limiting.
-
-#### 💳 [PaySwift: UPI Payments Backend](https://github.com/habeebashraf136/Payment-App)
-Payments backend with wallets and UPI-style transfers. Transfers run as atomic PostgreSQL transactions, with MPIN verification, JWT access and refresh tokens, Redis token blacklisting and rate limiting.
-
-#### 🔍 [Perplexity Clone](https://github.com/habeebashraf136/Perplexity-project)
-AI search and chat backend using LangChain with Mistral and Gemini, Tavily for web search, Socket.io for real-time chat, and JWT authentication.
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Resume-Job-Matcher</h4>
+      <p>Backend that reads a PDF resume and returns ranked job matches. A 6-step LangGraph.js pipeline handles parsing, profile extraction, job search, embedding similarity and LLM re-ranking.</p>
+      <p><sub><b>Tech:</b> Node.js · TypeScript · LangGraph.js · PostgreSQL · Redis · Pinecone</sub></p>
+      <a href="https://github.com/habeebashraf136/resume-job-matcher-backend"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="View Code"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔀 LLM Gateway & AI Router</h4>
+      <p>One API for multiple AI providers. Routes each request by task type, falls back to a backup provider on failure, and streams responses with SSE.</p>
+      <p><sub><b>Tech:</b> Node.js · Express · MongoDB · SSE · JWT · Docker</sub></p>
+      <a href="https://github.com/habeebashraf136/llm-gateway-backend"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="View Code"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💳 PaySwift: UPI Payments Backend</h4>
+      <p>Wallet and UPI-style transfers run as atomic PostgreSQL transactions, with MPIN verification, JWT access and refresh tokens, Redis token blacklisting and rate limiting.</p>
+      <p><sub><b>Tech:</b> Node.js · Express · PostgreSQL · Redis · JWT</sub></p>
+      <a href="https://github.com/habeebashraf136/Payment-App"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="View Code"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔍 Perplexity Clone</h4>
+      <p>AI search and chat backend using LangChain with Mistral and Gemini, Tavily for web search, Socket.io for real-time chat, and JWT authentication.</p>
+      <p><sub><b>Tech:</b> Node.js · LangChain · MongoDB · Redis · Socket.io · Tavily</sub></p>
+      <a href="https://github.com/habeebashraf136/Perplexity-project"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="View Code"></a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🤝 Let's Connect
