@@ -1,6 +1,12 @@
-<h1 align="center">Mohammed Habeeb Ashraf 👋</h1>
-<p align="center"><b>Software Developer (Backend) | Node.js · TypeScript · PostgreSQL · Redis</b></p>
-<p align="center">Building APIs and AI-Powered Backend Services</p>
+<h1 align="center">Mohammed Habeeb Ashraf</h1>
+<p align="center"><b>Software Developer (Backend)</b></p>
+<p align="center">Node.js · TypeScript · PostgreSQL · Redis</p>
+<p align="center">I build REST APIs, authentication systems and AI-powered backend services.</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohammedhabeebashraf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/habeebashraf136/habeebashraf136/raw/main/Habeeb-Resume.pdf"><img src="https://img.shields.io/badge/Resume-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
+</p>
 
 ---
 ### 👨‍💻 About Me
