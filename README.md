@@ -9,9 +9,9 @@
 - 🎓 Sheryians Coding School: 2.0 Job Ready AI Powered Cohort
 - 🔧 Backend focus: REST APIs, authentication, databases and caching with Node.js, Express, PostgreSQL, MongoDB, Redis
 - 🤖 AI integration: LLM routing, RAG pipelines, multi-provider orchestration
-- 🏫 Studying BCA (Cyber Security) at Chandigarh University (Online)
+- 🏫 Studying BCA at Chandigarh University (Online)
 - 🖥️ I focus on the backend. Frontends in my projects are built with AI tools.
-- 📍 Based in Raichur, India · Open to **remote Backend internships** at product startups
+- 📍 Based in Raichur, India · Open to **remote Backend internships**
 
 ---
 
@@ -26,7 +26,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 **AI / LLM**
